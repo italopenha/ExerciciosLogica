@@ -1,0 +1,1 @@
+Exercícios básicos para treinar lógica de programação em C#.

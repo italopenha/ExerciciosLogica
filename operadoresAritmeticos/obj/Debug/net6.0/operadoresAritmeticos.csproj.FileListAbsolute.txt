@@ -1,0 +1,15 @@
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresAritmeticos\bin\Debug\net6.0\operadoresAritmeticos.exe
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresAritmeticos\bin\Debug\net6.0\operadoresAritmeticos.deps.json
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresAritmeticos\bin\Debug\net6.0\operadoresAritmeticos.runtimeconfig.json
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresAritmeticos\bin\Debug\net6.0\operadoresAritmeticos.dll
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresAritmeticos\bin\Debug\net6.0\operadoresAritmeticos.pdb
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.AssemblyInfo.cs
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.dll
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresAritmeticos\obj\Debug\net6.0\refint\operadoresAritmeticos.dll
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.pdb
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.genruntimeconfig.cache
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresAritmeticos\obj\Debug\net6.0\ref\operadoresAritmeticos.dll

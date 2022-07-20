@@ -1,0 +1,15 @@
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresLogicos&Relacionais\bin\Debug\net6.0\operadoresLogicos&Relacionais.exe
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresLogicos&Relacionais\bin\Debug\net6.0\operadoresLogicos&Relacionais.deps.json
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresLogicos&Relacionais\bin\Debug\net6.0\operadoresLogicos&Relacionais.runtimeconfig.json
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresLogicos&Relacionais\bin\Debug\net6.0\operadoresLogicos&Relacionais.dll
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresLogicos&Relacionais\bin\Debug\net6.0\operadoresLogicos&Relacionais.pdb
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresLogicos&Relacionais\obj\Debug\net6.0\operadoresLogicos&Relacionais.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresLogicos&Relacionais\obj\Debug\net6.0\operadoresLogicos&Relacionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresLogicos&Relacionais\obj\Debug\net6.0\operadoresLogicos&Relacionais.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresLogicos&Relacionais\obj\Debug\net6.0\operadoresLogicos&Relacionais.AssemblyInfo.cs
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresLogicos&Relacionais\obj\Debug\net6.0\operadoresLogicos&Relacionais.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresLogicos&Relacionais\obj\Debug\net6.0\operadoresLogicos&Relacionais.dll
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresLogicos&Relacionais\obj\Debug\net6.0\refint\operadoresLogicos&Relacionais.dll
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresLogicos&Relacionais\obj\Debug\net6.0\operadoresLogicos&Relacionais.pdb
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresLogicos&Relacionais\obj\Debug\net6.0\operadoresLogicos&Relacionais.genruntimeconfig.cache
+C:\Users\italo\Documents\Projetos\Testes\ExeLogica\operadoresLogicos&Relacionais\obj\Debug\net6.0\ref\operadoresLogicos&Relacionais.dll
