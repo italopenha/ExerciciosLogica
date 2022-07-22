@@ -1,0 +1,15 @@
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorKmMilhas\bin\Debug\net6.0\conversorKmMilhas.exe
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorKmMilhas\bin\Debug\net6.0\conversorKmMilhas.deps.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorKmMilhas\bin\Debug\net6.0\conversorKmMilhas.runtimeconfig.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorKmMilhas\bin\Debug\net6.0\conversorKmMilhas.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorKmMilhas\bin\Debug\net6.0\conversorKmMilhas.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorKmMilhas\obj\Debug\net6.0\conversorKmMilhas.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorKmMilhas\obj\Debug\net6.0\conversorKmMilhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorKmMilhas\obj\Debug\net6.0\conversorKmMilhas.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorKmMilhas\obj\Debug\net6.0\conversorKmMilhas.AssemblyInfo.cs
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorKmMilhas\obj\Debug\net6.0\conversorKmMilhas.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorKmMilhas\obj\Debug\net6.0\conversorKmMilhas.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorKmMilhas\obj\Debug\net6.0\refint\conversorKmMilhas.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorKmMilhas\obj\Debug\net6.0\conversorKmMilhas.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorKmMilhas\obj\Debug\net6.0\conversorKmMilhas.genruntimeconfig.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorKmMilhas\obj\Debug\net6.0\ref\conversorKmMilhas.dll

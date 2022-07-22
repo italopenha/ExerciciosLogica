@@ -1,0 +1,15 @@
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\descobrirIdade\bin\Debug\net6.0\descobrirIdade.exe
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\descobrirIdade\bin\Debug\net6.0\descobrirIdade.deps.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\descobrirIdade\bin\Debug\net6.0\descobrirIdade.runtimeconfig.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\descobrirIdade\bin\Debug\net6.0\descobrirIdade.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\descobrirIdade\bin\Debug\net6.0\descobrirIdade.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\descobrirIdade\obj\Debug\net6.0\descobrirIdade.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\descobrirIdade\obj\Debug\net6.0\descobrirIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\descobrirIdade\obj\Debug\net6.0\descobrirIdade.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\descobrirIdade\obj\Debug\net6.0\descobrirIdade.AssemblyInfo.cs
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\descobrirIdade\obj\Debug\net6.0\descobrirIdade.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\descobrirIdade\obj\Debug\net6.0\descobrirIdade.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\descobrirIdade\obj\Debug\net6.0\refint\descobrirIdade.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\descobrirIdade\obj\Debug\net6.0\descobrirIdade.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\descobrirIdade\obj\Debug\net6.0\descobrirIdade.genruntimeconfig.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\descobrirIdade\obj\Debug\net6.0\ref\descobrirIdade.dll

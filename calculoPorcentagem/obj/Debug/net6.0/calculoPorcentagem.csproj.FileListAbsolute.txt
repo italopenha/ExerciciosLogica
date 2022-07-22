@@ -1,0 +1,15 @@
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoPorcentagem\bin\Debug\net6.0\calculoPorcentagem.exe
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoPorcentagem\bin\Debug\net6.0\calculoPorcentagem.deps.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoPorcentagem\bin\Debug\net6.0\calculoPorcentagem.runtimeconfig.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoPorcentagem\bin\Debug\net6.0\calculoPorcentagem.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoPorcentagem\bin\Debug\net6.0\calculoPorcentagem.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoPorcentagem\obj\Debug\net6.0\calculoPorcentagem.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoPorcentagem\obj\Debug\net6.0\calculoPorcentagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoPorcentagem\obj\Debug\net6.0\calculoPorcentagem.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoPorcentagem\obj\Debug\net6.0\calculoPorcentagem.AssemblyInfo.cs
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoPorcentagem\obj\Debug\net6.0\calculoPorcentagem.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoPorcentagem\obj\Debug\net6.0\calculoPorcentagem.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoPorcentagem\obj\Debug\net6.0\refint\calculoPorcentagem.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoPorcentagem\obj\Debug\net6.0\calculoPorcentagem.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoPorcentagem\obj\Debug\net6.0\calculoPorcentagem.genruntimeconfig.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoPorcentagem\obj\Debug\net6.0\ref\calculoPorcentagem.dll

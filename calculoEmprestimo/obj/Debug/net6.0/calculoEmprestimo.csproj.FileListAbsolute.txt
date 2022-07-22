@@ -1,0 +1,15 @@
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoEmprestimo\bin\Debug\net6.0\calculoEmprestimo.exe
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoEmprestimo\bin\Debug\net6.0\calculoEmprestimo.deps.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoEmprestimo\bin\Debug\net6.0\calculoEmprestimo.runtimeconfig.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoEmprestimo\bin\Debug\net6.0\calculoEmprestimo.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoEmprestimo\bin\Debug\net6.0\calculoEmprestimo.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoEmprestimo\obj\Debug\net6.0\calculoEmprestimo.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoEmprestimo\obj\Debug\net6.0\calculoEmprestimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoEmprestimo\obj\Debug\net6.0\calculoEmprestimo.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoEmprestimo\obj\Debug\net6.0\calculoEmprestimo.AssemblyInfo.cs
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoEmprestimo\obj\Debug\net6.0\calculoEmprestimo.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoEmprestimo\obj\Debug\net6.0\calculoEmprestimo.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoEmprestimo\obj\Debug\net6.0\refint\calculoEmprestimo.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoEmprestimo\obj\Debug\net6.0\calculoEmprestimo.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoEmprestimo\obj\Debug\net6.0\calculoEmprestimo.genruntimeconfig.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoEmprestimo\obj\Debug\net6.0\ref\calculoEmprestimo.dll

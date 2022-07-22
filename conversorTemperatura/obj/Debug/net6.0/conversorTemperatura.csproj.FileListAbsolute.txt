@@ -1,0 +1,15 @@
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorTemperatura\bin\Debug\net6.0\conversorTemperatura.exe
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorTemperatura\bin\Debug\net6.0\conversorTemperatura.deps.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorTemperatura\bin\Debug\net6.0\conversorTemperatura.runtimeconfig.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorTemperatura\bin\Debug\net6.0\conversorTemperatura.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorTemperatura\bin\Debug\net6.0\conversorTemperatura.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorTemperatura\obj\Debug\net6.0\conversorTemperatura.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorTemperatura\obj\Debug\net6.0\conversorTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorTemperatura\obj\Debug\net6.0\conversorTemperatura.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorTemperatura\obj\Debug\net6.0\conversorTemperatura.AssemblyInfo.cs
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorTemperatura\obj\Debug\net6.0\conversorTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorTemperatura\obj\Debug\net6.0\conversorTemperatura.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorTemperatura\obj\Debug\net6.0\refint\conversorTemperatura.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorTemperatura\obj\Debug\net6.0\conversorTemperatura.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorTemperatura\obj\Debug\net6.0\conversorTemperatura.genruntimeconfig.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorTemperatura\obj\Debug\net6.0\ref\conversorTemperatura.dll

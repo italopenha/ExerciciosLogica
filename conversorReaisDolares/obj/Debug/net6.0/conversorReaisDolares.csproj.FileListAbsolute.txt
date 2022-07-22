@@ -1,0 +1,15 @@
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorReaisDolares\bin\Debug\net6.0\conversorReaisDolares.exe
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorReaisDolares\bin\Debug\net6.0\conversorReaisDolares.deps.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorReaisDolares\bin\Debug\net6.0\conversorReaisDolares.runtimeconfig.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorReaisDolares\bin\Debug\net6.0\conversorReaisDolares.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorReaisDolares\bin\Debug\net6.0\conversorReaisDolares.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorReaisDolares\obj\Debug\net6.0\conversorReaisDolares.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorReaisDolares\obj\Debug\net6.0\conversorReaisDolares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorReaisDolares\obj\Debug\net6.0\conversorReaisDolares.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorReaisDolares\obj\Debug\net6.0\conversorReaisDolares.AssemblyInfo.cs
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorReaisDolares\obj\Debug\net6.0\conversorReaisDolares.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorReaisDolares\obj\Debug\net6.0\conversorReaisDolares.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorReaisDolares\obj\Debug\net6.0\refint\conversorReaisDolares.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorReaisDolares\obj\Debug\net6.0\conversorReaisDolares.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorReaisDolares\obj\Debug\net6.0\conversorReaisDolares.genruntimeconfig.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\conversorReaisDolares\obj\Debug\net6.0\ref\conversorReaisDolares.dll

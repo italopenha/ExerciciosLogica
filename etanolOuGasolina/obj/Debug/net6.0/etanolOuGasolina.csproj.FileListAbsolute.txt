@@ -1,0 +1,15 @@
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\etanolOuGasolina\bin\Debug\net6.0\etanolOuGasolina.exe
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\etanolOuGasolina\bin\Debug\net6.0\etanolOuGasolina.deps.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\etanolOuGasolina\bin\Debug\net6.0\etanolOuGasolina.runtimeconfig.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\etanolOuGasolina\bin\Debug\net6.0\etanolOuGasolina.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\etanolOuGasolina\bin\Debug\net6.0\etanolOuGasolina.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\etanolOuGasolina\obj\Debug\net6.0\etanolOuGasolina.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\etanolOuGasolina\obj\Debug\net6.0\etanolOuGasolina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\etanolOuGasolina\obj\Debug\net6.0\etanolOuGasolina.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\etanolOuGasolina\obj\Debug\net6.0\etanolOuGasolina.AssemblyInfo.cs
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\etanolOuGasolina\obj\Debug\net6.0\etanolOuGasolina.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\etanolOuGasolina\obj\Debug\net6.0\etanolOuGasolina.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\etanolOuGasolina\obj\Debug\net6.0\refint\etanolOuGasolina.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\etanolOuGasolina\obj\Debug\net6.0\etanolOuGasolina.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\etanolOuGasolina\obj\Debug\net6.0\etanolOuGasolina.genruntimeconfig.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\etanolOuGasolina\obj\Debug\net6.0\ref\etanolOuGasolina.dll
