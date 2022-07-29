@@ -1,0 +1,15 @@
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoNotas\bin\Debug\net6.0\calculoNotas.exe
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoNotas\bin\Debug\net6.0\calculoNotas.deps.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoNotas\bin\Debug\net6.0\calculoNotas.runtimeconfig.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoNotas\bin\Debug\net6.0\calculoNotas.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoNotas\bin\Debug\net6.0\calculoNotas.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoNotas\obj\Debug\net6.0\calculoNotas.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoNotas\obj\Debug\net6.0\calculoNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoNotas\obj\Debug\net6.0\calculoNotas.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoNotas\obj\Debug\net6.0\calculoNotas.AssemblyInfo.cs
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoNotas\obj\Debug\net6.0\calculoNotas.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoNotas\obj\Debug\net6.0\calculoNotas.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoNotas\obj\Debug\net6.0\refint\calculoNotas.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoNotas\obj\Debug\net6.0\calculoNotas.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoNotas\obj\Debug\net6.0\calculoNotas.genruntimeconfig.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoNotas\obj\Debug\net6.0\ref\calculoNotas.dll

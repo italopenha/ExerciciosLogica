@@ -1,0 +1,15 @@
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoIMC\bin\Debug\net6.0\calculoIMC.exe
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoIMC\bin\Debug\net6.0\calculoIMC.deps.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoIMC\bin\Debug\net6.0\calculoIMC.runtimeconfig.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoIMC\bin\Debug\net6.0\calculoIMC.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoIMC\bin\Debug\net6.0\calculoIMC.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoIMC\obj\Debug\net6.0\calculoIMC.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoIMC\obj\Debug\net6.0\calculoIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoIMC\obj\Debug\net6.0\calculoIMC.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoIMC\obj\Debug\net6.0\calculoIMC.AssemblyInfo.cs
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoIMC\obj\Debug\net6.0\calculoIMC.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoIMC\obj\Debug\net6.0\calculoIMC.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoIMC\obj\Debug\net6.0\refint\calculoIMC.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoIMC\obj\Debug\net6.0\calculoIMC.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoIMC\obj\Debug\net6.0\calculoIMC.genruntimeconfig.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\calculoIMC\obj\Debug\net6.0\ref\calculoIMC.dll

@@ -1,0 +1,15 @@
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\criancaEsperanca\bin\Debug\net6.0\criancaEsperanca.exe
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\criancaEsperanca\bin\Debug\net6.0\criancaEsperanca.deps.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\criancaEsperanca\bin\Debug\net6.0\criancaEsperanca.runtimeconfig.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\criancaEsperanca\bin\Debug\net6.0\criancaEsperanca.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\criancaEsperanca\bin\Debug\net6.0\criancaEsperanca.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\criancaEsperanca\obj\Debug\net6.0\criancaEsperanca.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\criancaEsperanca\obj\Debug\net6.0\criancaEsperanca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\criancaEsperanca\obj\Debug\net6.0\criancaEsperanca.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\criancaEsperanca\obj\Debug\net6.0\criancaEsperanca.AssemblyInfo.cs
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\criancaEsperanca\obj\Debug\net6.0\criancaEsperanca.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\criancaEsperanca\obj\Debug\net6.0\criancaEsperanca.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\criancaEsperanca\obj\Debug\net6.0\refint\criancaEsperanca.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\criancaEsperanca\obj\Debug\net6.0\criancaEsperanca.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\criancaEsperanca\obj\Debug\net6.0\criancaEsperanca.genruntimeconfig.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\criancaEsperanca\obj\Debug\net6.0\ref\criancaEsperanca.dll

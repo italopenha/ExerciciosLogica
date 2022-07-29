@@ -1,13 +1,24 @@
-﻿int AnoAtual;
+﻿int Ano;
 int AnoNascimento;
 int Idade;
 
-Console.Write("Em que ano nós estamos? ");
-AnoAtual = int.Parse(Console.ReadLine());
+Console.WriteLine("DESCOBRIR IDADE");
+
+Console.Write("Em que ano estamos? ");
+Ano = int.Parse(Console.ReadLine());
 
 Console.Write("Em que ano você nasceu? ");
 AnoNascimento = int.Parse(Console.ReadLine());
 
-Idade = AnoAtual - AnoNascimento;
+Idade = Ano - AnoNascimento;
 
-Console.Write("Você tem " + Idade + " anos.");
+Console.WriteLine("Você tem " + Idade + " anos.");
+
+if (Idade < 18)
+{
+    Console.WriteLine("Você ainda não atingiu a maioridade.");
+}
+else
+{
+    Console.WriteLine("Você já atingiu a maioridade.");
+}

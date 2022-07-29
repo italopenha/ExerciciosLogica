@@ -1,0 +1,15 @@
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\partidaFutebol\bin\Debug\net6.0\partidaFutebol.exe
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\partidaFutebol\bin\Debug\net6.0\partidaFutebol.deps.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\partidaFutebol\bin\Debug\net6.0\partidaFutebol.runtimeconfig.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\partidaFutebol\bin\Debug\net6.0\partidaFutebol.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\partidaFutebol\bin\Debug\net6.0\partidaFutebol.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\partidaFutebol\obj\Debug\net6.0\partidaFutebol.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\partidaFutebol\obj\Debug\net6.0\partidaFutebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\partidaFutebol\obj\Debug\net6.0\partidaFutebol.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\partidaFutebol\obj\Debug\net6.0\partidaFutebol.AssemblyInfo.cs
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\partidaFutebol\obj\Debug\net6.0\partidaFutebol.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\partidaFutebol\obj\Debug\net6.0\partidaFutebol.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\partidaFutebol\obj\Debug\net6.0\refint\partidaFutebol.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\partidaFutebol\obj\Debug\net6.0\partidaFutebol.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\partidaFutebol\obj\Debug\net6.0\partidaFutebol.genruntimeconfig.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\partidaFutebol\obj\Debug\net6.0\ref\partidaFutebol.dll
