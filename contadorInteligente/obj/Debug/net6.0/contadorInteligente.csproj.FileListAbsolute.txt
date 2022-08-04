@@ -1,0 +1,15 @@
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contadorInteligente\bin\Debug\net6.0\contadorInteligente.exe
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contadorInteligente\bin\Debug\net6.0\contadorInteligente.deps.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contadorInteligente\bin\Debug\net6.0\contadorInteligente.runtimeconfig.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contadorInteligente\bin\Debug\net6.0\contadorInteligente.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contadorInteligente\bin\Debug\net6.0\contadorInteligente.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contadorInteligente\obj\Debug\net6.0\contadorInteligente.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contadorInteligente\obj\Debug\net6.0\contadorInteligente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contadorInteligente\obj\Debug\net6.0\contadorInteligente.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contadorInteligente\obj\Debug\net6.0\contadorInteligente.AssemblyInfo.cs
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contadorInteligente\obj\Debug\net6.0\contadorInteligente.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contadorInteligente\obj\Debug\net6.0\contadorInteligente.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contadorInteligente\obj\Debug\net6.0\refint\contadorInteligente.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contadorInteligente\obj\Debug\net6.0\contadorInteligente.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contadorInteligente\obj\Debug\net6.0\contadorInteligente.genruntimeconfig.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contadorInteligente\obj\Debug\net6.0\ref\contadorInteligente.dll

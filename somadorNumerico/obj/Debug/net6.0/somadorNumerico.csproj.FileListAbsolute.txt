@@ -1,0 +1,15 @@
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\somadorNumerico\bin\Debug\net6.0\somadorNumerico.exe
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\somadorNumerico\bin\Debug\net6.0\somadorNumerico.deps.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\somadorNumerico\bin\Debug\net6.0\somadorNumerico.runtimeconfig.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\somadorNumerico\bin\Debug\net6.0\somadorNumerico.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\somadorNumerico\bin\Debug\net6.0\somadorNumerico.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\somadorNumerico\obj\Debug\net6.0\somadorNumerico.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\somadorNumerico\obj\Debug\net6.0\somadorNumerico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\somadorNumerico\obj\Debug\net6.0\somadorNumerico.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\somadorNumerico\obj\Debug\net6.0\somadorNumerico.AssemblyInfo.cs
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\somadorNumerico\obj\Debug\net6.0\somadorNumerico.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\somadorNumerico\obj\Debug\net6.0\somadorNumerico.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\somadorNumerico\obj\Debug\net6.0\refint\somadorNumerico.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\somadorNumerico\obj\Debug\net6.0\somadorNumerico.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\somadorNumerico\obj\Debug\net6.0\somadorNumerico.genruntimeconfig.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\somadorNumerico\obj\Debug\net6.0\ref\somadorNumerico.dll

@@ -1,0 +1,15 @@
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\melhorAluno\bin\Debug\net6.0\melhorAluno.exe
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\melhorAluno\bin\Debug\net6.0\melhorAluno.deps.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\melhorAluno\bin\Debug\net6.0\melhorAluno.runtimeconfig.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\melhorAluno\bin\Debug\net6.0\melhorAluno.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\melhorAluno\bin\Debug\net6.0\melhorAluno.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\melhorAluno\obj\Debug\net6.0\melhorAluno.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\melhorAluno\obj\Debug\net6.0\melhorAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\melhorAluno\obj\Debug\net6.0\melhorAluno.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\melhorAluno\obj\Debug\net6.0\melhorAluno.AssemblyInfo.cs
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\melhorAluno\obj\Debug\net6.0\melhorAluno.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\melhorAluno\obj\Debug\net6.0\melhorAluno.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\melhorAluno\obj\Debug\net6.0\refint\melhorAluno.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\melhorAluno\obj\Debug\net6.0\melhorAluno.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\melhorAluno\obj\Debug\net6.0\melhorAluno.genruntimeconfig.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\melhorAluno\obj\Debug\net6.0\ref\melhorAluno.dll
