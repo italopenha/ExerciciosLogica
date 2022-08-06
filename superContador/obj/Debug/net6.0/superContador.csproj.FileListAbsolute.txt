@@ -1,0 +1,15 @@
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\superContador\bin\Debug\net6.0\superContador.exe
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\superContador\bin\Debug\net6.0\superContador.deps.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\superContador\bin\Debug\net6.0\superContador.runtimeconfig.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\superContador\bin\Debug\net6.0\superContador.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\superContador\bin\Debug\net6.0\superContador.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\superContador\obj\Debug\net6.0\superContador.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\superContador\obj\Debug\net6.0\superContador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\superContador\obj\Debug\net6.0\superContador.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\superContador\obj\Debug\net6.0\superContador.AssemblyInfo.cs
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\superContador\obj\Debug\net6.0\superContador.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\superContador\obj\Debug\net6.0\superContador.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\superContador\obj\Debug\net6.0\refint\superContador.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\superContador\obj\Debug\net6.0\superContador.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\superContador\obj\Debug\net6.0\superContador.genruntimeconfig.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\superContador\obj\Debug\net6.0\ref\superContador.dll

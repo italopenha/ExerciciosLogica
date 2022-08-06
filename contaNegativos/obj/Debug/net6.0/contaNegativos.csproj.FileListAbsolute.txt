@@ -1,0 +1,15 @@
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contaNegativos\bin\Debug\net6.0\contaNegativos.exe
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contaNegativos\bin\Debug\net6.0\contaNegativos.deps.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contaNegativos\bin\Debug\net6.0\contaNegativos.runtimeconfig.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contaNegativos\bin\Debug\net6.0\contaNegativos.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contaNegativos\bin\Debug\net6.0\contaNegativos.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contaNegativos\obj\Debug\net6.0\contaNegativos.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contaNegativos\obj\Debug\net6.0\contaNegativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contaNegativos\obj\Debug\net6.0\contaNegativos.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contaNegativos\obj\Debug\net6.0\contaNegativos.AssemblyInfo.cs
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contaNegativos\obj\Debug\net6.0\contaNegativos.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contaNegativos\obj\Debug\net6.0\contaNegativos.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contaNegativos\obj\Debug\net6.0\refint\contaNegativos.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contaNegativos\obj\Debug\net6.0\contaNegativos.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contaNegativos\obj\Debug\net6.0\contaNegativos.genruntimeconfig.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\contaNegativos\obj\Debug\net6.0\ref\contaNegativos.dll

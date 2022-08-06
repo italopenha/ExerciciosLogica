@@ -1,0 +1,15 @@
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\escolhendoPessoas\bin\Debug\net6.0\escolhendoPessoas.exe
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\escolhendoPessoas\bin\Debug\net6.0\escolhendoPessoas.deps.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\escolhendoPessoas\bin\Debug\net6.0\escolhendoPessoas.runtimeconfig.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\escolhendoPessoas\bin\Debug\net6.0\escolhendoPessoas.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\escolhendoPessoas\bin\Debug\net6.0\escolhendoPessoas.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\escolhendoPessoas\obj\Debug\net6.0\escolhendoPessoas.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\escolhendoPessoas\obj\Debug\net6.0\escolhendoPessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\escolhendoPessoas\obj\Debug\net6.0\escolhendoPessoas.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\escolhendoPessoas\obj\Debug\net6.0\escolhendoPessoas.AssemblyInfo.cs
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\escolhendoPessoas\obj\Debug\net6.0\escolhendoPessoas.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\escolhendoPessoas\obj\Debug\net6.0\escolhendoPessoas.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\escolhendoPessoas\obj\Debug\net6.0\refint\escolhendoPessoas.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\escolhendoPessoas\obj\Debug\net6.0\escolhendoPessoas.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\escolhendoPessoas\obj\Debug\net6.0\escolhendoPessoas.genruntimeconfig.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\escolhendoPessoas\obj\Debug\net6.0\ref\escolhendoPessoas.dll
