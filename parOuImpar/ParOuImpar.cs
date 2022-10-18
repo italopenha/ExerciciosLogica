@@ -3,11 +3,18 @@
 Console.Write("Digite um número: ");
 N = int.Parse(Console.ReadLine());
 
-if (N % 2 == 0)
+static string ParOuImpar(int V)
 {
-    Console.WriteLine("O número é par.");
+    if (V % 2 == 0)
+    {
+        return "par.";
+    }
+    else
+    {
+        return "ímpar.";
+    }
 }
-else
-{
-    Console.WriteLine("O número é impar.");
-}
+
+string R = ParOuImpar(N);
+
+Console.Write("O número " + N + " é um valor " + R);

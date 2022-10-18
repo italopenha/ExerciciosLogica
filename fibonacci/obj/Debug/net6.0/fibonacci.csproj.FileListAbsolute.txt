@@ -1,0 +1,15 @@
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\fibonacci\bin\Debug\net6.0\fibonacci.exe
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\fibonacci\bin\Debug\net6.0\fibonacci.deps.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\fibonacci\bin\Debug\net6.0\fibonacci.runtimeconfig.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\fibonacci\bin\Debug\net6.0\fibonacci.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\fibonacci\bin\Debug\net6.0\fibonacci.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\fibonacci\obj\Debug\net6.0\fibonacci.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\fibonacci\obj\Debug\net6.0\fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\fibonacci\obj\Debug\net6.0\fibonacci.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\fibonacci\obj\Debug\net6.0\fibonacci.AssemblyInfo.cs
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\fibonacci\obj\Debug\net6.0\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\fibonacci\obj\Debug\net6.0\fibonacci.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\fibonacci\obj\Debug\net6.0\refint\fibonacci.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\fibonacci\obj\Debug\net6.0\fibonacci.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\fibonacci\obj\Debug\net6.0\fibonacci.genruntimeconfig.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\fibonacci\obj\Debug\net6.0\ref\fibonacci.dll

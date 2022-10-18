@@ -51,7 +51,7 @@ namespace EscolhendoPessoas
 
             } while (R != 'n');
 
-            Console.WriteLine("------------------------------------------------------------");
+            Console.WriteLine("------------------------------------------------------------"); 
             Console.WriteLine("Total de homens com mais de 18 e cabelos castanhos " + Homens);
             Console.WriteLine("Total de mulheres entre 25 e 30 e cabelos loiros " + Mulheres);
 

@@ -1,0 +1,15 @@
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\ordenaVetor\bin\Debug\net6.0\ordenaVetor.exe
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\ordenaVetor\bin\Debug\net6.0\ordenaVetor.deps.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\ordenaVetor\bin\Debug\net6.0\ordenaVetor.runtimeconfig.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\ordenaVetor\bin\Debug\net6.0\ordenaVetor.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\ordenaVetor\bin\Debug\net6.0\ordenaVetor.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\ordenaVetor\obj\Debug\net6.0\ordenaVetor.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\ordenaVetor\obj\Debug\net6.0\ordenaVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\ordenaVetor\obj\Debug\net6.0\ordenaVetor.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\ordenaVetor\obj\Debug\net6.0\ordenaVetor.AssemblyInfo.cs
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\ordenaVetor\obj\Debug\net6.0\ordenaVetor.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\ordenaVetor\obj\Debug\net6.0\ordenaVetor.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\ordenaVetor\obj\Debug\net6.0\refint\ordenaVetor.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\ordenaVetor\obj\Debug\net6.0\ordenaVetor.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\ordenaVetor\obj\Debug\net6.0\ordenaVetor.genruntimeconfig.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\ordenaVetor\obj\Debug\net6.0\ref\ordenaVetor.dll

@@ -1,0 +1,15 @@
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\listagemTurma\bin\Debug\net6.0\listagemTurma.exe
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\listagemTurma\bin\Debug\net6.0\listagemTurma.deps.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\listagemTurma\bin\Debug\net6.0\listagemTurma.runtimeconfig.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\listagemTurma\bin\Debug\net6.0\listagemTurma.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\listagemTurma\bin\Debug\net6.0\listagemTurma.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\listagemTurma\obj\Debug\net6.0\listagemTurma.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\listagemTurma\obj\Debug\net6.0\listagemTurma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\listagemTurma\obj\Debug\net6.0\listagemTurma.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\listagemTurma\obj\Debug\net6.0\listagemTurma.AssemblyInfo.cs
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\listagemTurma\obj\Debug\net6.0\listagemTurma.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\listagemTurma\obj\Debug\net6.0\listagemTurma.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\listagemTurma\obj\Debug\net6.0\refint\listagemTurma.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\listagemTurma\obj\Debug\net6.0\listagemTurma.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\listagemTurma\obj\Debug\net6.0\listagemTurma.genruntimeconfig.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\listagemTurma\obj\Debug\net6.0\ref\listagemTurma.dll

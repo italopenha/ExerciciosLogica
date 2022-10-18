@@ -1,0 +1,15 @@
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\detectorPesado\bin\Debug\net6.0\detectorPesado.exe
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\detectorPesado\bin\Debug\net6.0\detectorPesado.deps.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\detectorPesado\bin\Debug\net6.0\detectorPesado.runtimeconfig.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\detectorPesado\bin\Debug\net6.0\detectorPesado.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\detectorPesado\bin\Debug\net6.0\detectorPesado.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\detectorPesado\obj\Debug\net6.0\detectorPesado.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\detectorPesado\obj\Debug\net6.0\detectorPesado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\detectorPesado\obj\Debug\net6.0\detectorPesado.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\detectorPesado\obj\Debug\net6.0\detectorPesado.AssemblyInfo.cs
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\detectorPesado\obj\Debug\net6.0\detectorPesado.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\detectorPesado\obj\Debug\net6.0\detectorPesado.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\detectorPesado\obj\Debug\net6.0\refint\detectorPesado.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\detectorPesado\obj\Debug\net6.0\detectorPesado.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\detectorPesado\obj\Debug\net6.0\detectorPesado.genruntimeconfig.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\detectorPesado\obj\Debug\net6.0\ref\detectorPesado.dll
