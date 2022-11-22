@@ -1,0 +1,15 @@
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\chuteNumero\bin\Debug\net7.0\chuteNumero.exe
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\chuteNumero\bin\Debug\net7.0\chuteNumero.deps.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\chuteNumero\bin\Debug\net7.0\chuteNumero.runtimeconfig.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\chuteNumero\bin\Debug\net7.0\chuteNumero.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\chuteNumero\bin\Debug\net7.0\chuteNumero.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\chuteNumero\obj\Debug\net7.0\chuteNumero.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\chuteNumero\obj\Debug\net7.0\chuteNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\chuteNumero\obj\Debug\net7.0\chuteNumero.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\chuteNumero\obj\Debug\net7.0\chuteNumero.AssemblyInfo.cs
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\chuteNumero\obj\Debug\net7.0\chuteNumero.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\chuteNumero\obj\Debug\net7.0\chuteNumero.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\chuteNumero\obj\Debug\net7.0\refint\chuteNumero.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\chuteNumero\obj\Debug\net7.0\chuteNumero.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\chuteNumero\obj\Debug\net7.0\chuteNumero.genruntimeconfig.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\chuteNumero\obj\Debug\net7.0\ref\chuteNumero.dll

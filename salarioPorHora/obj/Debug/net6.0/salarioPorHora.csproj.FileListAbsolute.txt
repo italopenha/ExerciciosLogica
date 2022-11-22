@@ -1,0 +1,15 @@
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\salarioPorHora\bin\Debug\net6.0\salarioPorHora.exe
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\salarioPorHora\bin\Debug\net6.0\salarioPorHora.deps.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\salarioPorHora\bin\Debug\net6.0\salarioPorHora.runtimeconfig.json
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\salarioPorHora\bin\Debug\net6.0\salarioPorHora.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\salarioPorHora\bin\Debug\net6.0\salarioPorHora.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\salarioPorHora\obj\Debug\net6.0\salarioPorHora.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\salarioPorHora\obj\Debug\net6.0\salarioPorHora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\salarioPorHora\obj\Debug\net6.0\salarioPorHora.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\salarioPorHora\obj\Debug\net6.0\salarioPorHora.AssemblyInfo.cs
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\salarioPorHora\obj\Debug\net6.0\salarioPorHora.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\salarioPorHora\obj\Debug\net6.0\salarioPorHora.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\salarioPorHora\obj\Debug\net6.0\refint\salarioPorHora.dll
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\salarioPorHora\obj\Debug\net6.0\salarioPorHora.pdb
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\salarioPorHora\obj\Debug\net6.0\salarioPorHora.genruntimeconfig.cache
+C:\Users\italo\Documents\Projetos\ExerciciosLogica\salarioPorHora\obj\Debug\net6.0\ref\salarioPorHora.dll
