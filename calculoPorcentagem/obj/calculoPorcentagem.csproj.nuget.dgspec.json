@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\italo\\Documents\\Projetos\\ExerciciosLogica\\calculoPorcentagem\\calculoPorcentagem.csproj": {}
+    "C:\\Users\\italo\\OneDrive\\Documents\\Projetos\\ExerciciosLogica\\calculoPorcentagem\\calculoPorcentagem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\italo\\Documents\\Projetos\\ExerciciosLogica\\calculoPorcentagem\\calculoPorcentagem.csproj": {
+    "C:\\Users\\italo\\OneDrive\\Documents\\Projetos\\ExerciciosLogica\\calculoPorcentagem\\calculoPorcentagem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\italo\\Documents\\Projetos\\ExerciciosLogica\\calculoPorcentagem\\calculoPorcentagem.csproj",
+        "projectUniqueName": "C:\\Users\\italo\\OneDrive\\Documents\\Projetos\\ExerciciosLogica\\calculoPorcentagem\\calculoPorcentagem.csproj",
         "projectName": "calculoPorcentagem",
-        "projectPath": "C:\\Users\\italo\\Documents\\Projetos\\ExerciciosLogica\\calculoPorcentagem\\calculoPorcentagem.csproj",
+        "projectPath": "C:\\Users\\italo\\OneDrive\\Documents\\Projetos\\ExerciciosLogica\\calculoPorcentagem\\calculoPorcentagem.csproj",
         "packagesPath": "C:\\Users\\italo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\italo\\Documents\\Projetos\\ExerciciosLogica\\calculoPorcentagem\\obj\\",
+        "outputPath": "C:\\Users\\italo\\OneDrive\\Documents\\Projetos\\ExerciciosLogica\\calculoPorcentagem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\italo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/zdzcode/_packaging/ZDZCodeLibraries/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -55,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
